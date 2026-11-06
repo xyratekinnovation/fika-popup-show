@@ -1,0 +1,13 @@
+export { Hero } from "./Hero";
+export { About } from "./About";
+export { VisionMission } from "./VisionMission";
+export { Categories } from "./Categories";
+export { Achievements } from "./Achievements";
+export { Editions } from "./Editions";
+export { Experience } from "./Experience";
+export { Collaborate } from "./Collaborate";
+export { Sponsors } from "./Sponsors";
+export { Partners } from "./Partners";
+export { Book } from "./Book";
+export { Team } from "./Team";
+export { Contact } from "./Contact";
